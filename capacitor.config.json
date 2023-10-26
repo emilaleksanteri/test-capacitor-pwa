@@ -1,0 +1,5 @@
+{
+  "appId": "com.company.myapp",
+  "appName": "my-app",
+  "webDir": "build"
+}
